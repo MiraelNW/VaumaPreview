@@ -1,8 +1,5 @@
 # VaumaPreview
 
-## Project modules dependency
-![](project.dot.png)
-
 ## Project tech stack 
 - ui: Jetpack Compose
 - network: Ktor
@@ -20,6 +17,9 @@
 This is mobile app for watching anime
 Project use own server 
 All resources are hiden behind auth(jwt tokens)
+
+## Project modules dependency
+![](project.dot.png)
 
 ## Plans
 - write tests in feature modules
