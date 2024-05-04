@@ -1,1 +1,3 @@
 # VaumaPreview
+
+![](project.dot.png)
